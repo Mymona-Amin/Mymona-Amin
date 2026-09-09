@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="assets/profile.jpg" width="170" style="border-radius:50%;border:3px solid #4DABF7;" alt="Mymona Amin Shupti"/>
+<img src="assets/profile.png" width="170" style="border-radius:50%;border:3px solid #4DABF7;" alt="Mymona Amin Shupti"/>
 
 # Hi, I'm Mymona Amin Shupti 👋
 
@@ -100,3 +99,5 @@
 </p>
 
 <div align="center"><sub>Thanks for stopping by! ✨</sub></div>
+
+  
