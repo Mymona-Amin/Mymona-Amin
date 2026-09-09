@@ -1,76 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Hi%20There%2C%20I'm%20Mymona%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cyber%20Security%20Professional&descAlignY=55&descSize=18" width="100%"/>
+  <!-- Circular Profile Image Header -->
+  <img src="https://raw.githubusercontent.com/Mymona-Amin/BANK-MANAGEMENT-SYSTEM/main/profile.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #0a192f;" alt="Mymona Amin Shupti" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F8FE9&center=true&vCenter=true&width=600&lines=CSE+Undergrad+%40+UITS;Learning+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Future+Cyber+Security+Professional;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
-</a>
+  <h1>MAYMONA AMIN SHUPTI</h1>
+  <h3>Aspiring Cyber Security Professional | UITS CSE Student</h3>
 
-</div>
+  <br />
 
-<br>
-
-## 🧑‍💻 About Me
-
-- 🎓 I'm **Mymona Amin Shupti**, currently studying for a **B.Sc. in CSE** at **University of Information Technology and Sciences (UITS)** — 2nd Semester.
-- 💻 I have learned **C programming**, and I'm currently learning **Java, HTML, CSS, and JavaScript**.
-- 🔐 My career goal is to become a **Cyber Security Professional**.
-- 🌱 I'm continuously exploring new technologies and strengthening my programming foundation.
-- 📫 Reach me at: **mymonaamin3@gmail.com**
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0f2b46?style=for-the-badge&logo=html5&logoColor=4F8FE9)
-![CSS3](https://img.shields.io/badge/CSS3-0f2b46?style=for-the-badge&logo=css3&logoColor=4F8FE9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f2b46?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Git](https://img.shields.io/badge/Git-0f2b46?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f2b46?style=for-the-badge&logo=github&logoColor=white)
+  <!-- Custom Dark Blue Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=header&text=PROFILE%20README&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
 </div>
 
-<br>
+<br />
 
-## 📊 GitHub Analytics
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 ABOUT ME</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Sc. in CSE (2nd Semester) at <b>University of Information Technology and Sciences (UITS)</b>.</li>
+        <li>🛡️ <b>Focus:</b> Aspiring Cyber Security Professional.</li>
+        <li>💻 <b>Learning Pathway:</b> Mastered C Programming; currently learning Java, HTML, CSS, & JavaScript.</li>
+      </ul>
+      <br />
+      <!-- Contribution Streak -->
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mymona-Amin&theme=tokyonight&hide_border=true&background=0a192f" alt="GitHub Streak" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 TECH STACK</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📁 FEATURED PROJECTS</h3>
+      <a href="https://github.com/Mymona-Amin/BANK-MANAGEMENT-SYSTEM">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mymona-Amin&repo=BANK-MANAGEMENT-SYSTEM&theme=tokyonight&bg_color=0a192f&hide_border=true" alt="Bank Management System" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>💬 QUOTE</h3>
+      <blockquote align="center">
+        <i>"Security is not a product, but a process."</i>
+        <br /><br />
+        <b>— Bruce Schneier</b>
+      </blockquote>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔗 LET'S CONNECT</h3>
+      <p>
+        <a href="https://linkedin.com/in/your-linkedin-id">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" />
+        </a>
+        <br /><br />
+        <a href="https://github.com/Mymona-Amin">
+          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+        </a>
+        <br /><br />
+        <a href="mailto:mymonaamin3@gmail.com">
+          <img src="https://img.shields.io/badge/Email-mymonaamin3%40gmail.com-003366?style=for-the-badge&logo=gmail&logoColor=white" width="100%" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Dark Blue Banner for Analytics -->
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mymona-Amin&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mymona-Amin&layout=compact&theme=github_dark_blue&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mymona-Amin&theme=github-dark-blue&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mymona-Amin&theme=github-compact&hide_border=true&bg_color=0d1117&color=4F8FE9&line=4F8FE9&point=ffffff" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=40&text=GITHUB%20ANALYTICS&fontSize=18&fontColor=ffffff" width="100%" alt="Analytics Banner" />
 </div>
 
-<br>
-
-## 💬 Quote
+<br />
 
 <div align="center">
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
-</div>
-
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0f2b46?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mymonaamin3@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=100&section=footer"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mymona-Amin&show_icons=true&theme=tokyonight&bg_color=0a192f&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mymona-Amin&layout=compact&theme=tokyonight&bg_color=0a192f&hide_border=true" alt="Top Languages" />
 </div>
