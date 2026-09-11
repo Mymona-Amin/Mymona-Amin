@@ -78,7 +78,6 @@ Hello! I'm **Mymona Amin Shupti**, a Computer Science & Engineering student pass
 
 ## 📚 Currently Learning
 
-- 🔐 Cyber Security fundamentals
 - ☕ Java programming
 - 🧱 Object-Oriented Programming
 - 🌐 Web Development
@@ -98,7 +97,7 @@ A Java-based project designed to practice programming concepts and simulate basi
 
 ---
 
-### 💰 Money Mate — Personal Finance App
+### 💰 My Money — Personal Finance App
 
 A personal finance application concept designed to help users manage their financial information in one place.
 
