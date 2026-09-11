@@ -14,10 +14,16 @@
 
 </div>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=4DABF7"/>
-  <img src="https://img.shields.io/badge/Learning-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/Building-Web%20Projects-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-black?style=for-the-badge&logo=cube&logoColor=3b82f6" alt="Focus Cyber Security" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LEARNING-JAVA-black?style=for-the-badge&logo=java&logoColor=orange" alt="Learning Java" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/BUILDING-WEB_PROJECTS-black?style=for-the-badge&logo=html5&logoColor=e34f26" alt="Building Web Projects" />
+  </a>
 </p>
 
 ---
