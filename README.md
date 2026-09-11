@@ -1,11 +1,14 @@
 
-<div align="center">
 
-<img src="https://i.postimg.cc/ZKKwczG4/Whats-App-Image-2026-09-09-at-11-20-33-AM.jpg"
-     width="220"
-     height="220"
-     style="border-radius: 50%; object-fit: cover;"
-     alt="Mymona Amin Shupti"/>
+<div align="center">
+  <img
+    src="https://i.postimg.cc/ZKKwczG4/Whats-App-Image-2026-09-09-at-11-20-33-AM.jpg"
+    alt="Mymona Amin Shupti"
+    width="220"
+    height="220"
+    style="border-radius: 50%; border: 5px solid #0B1F3A; object-fit: cover;"
+  />
+</div>
 
 # Hi, I'm Mymona Amin Shupti 👋
 
