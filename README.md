@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/profile.png" width="170" style="border-radius:50%;border:3px solid #4DABF7;" alt="Mymona Amin Shupti"/>
+<img src="https://i.postimg.cc/yY65WZnN/Whats-App-Image-2026-09-09-at-11-20-33-AM.jpg" width="170" style="border-radius:50%;border:3px solid #4DABF7;" alt="Mymona Amin Shupti"/>
+
+
 
 # Hi, I'm Mymona Amin Shupti 👋
 
