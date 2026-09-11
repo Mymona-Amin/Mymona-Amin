@@ -1,8 +1,5 @@
-<table width="100%" bgcolor="#0B1F3A">
-<tr>
-<td>
-
 <div align="center">
+
   <img
     src="https://i.postimg.cc/ZKKwczG4/Whats-App-Image-2026-09-09-at-11-20-33-AM.jpg"
     alt="Mymona Amin Shupti"
@@ -10,11 +7,12 @@
     height="220"
     style="border-radius: 50%; border: 5px solid #0B1F3A; object-fit: cover;"
   />
+
+  <h1>Mymona Amin Shupti</h1>
+
+  <h3>Cyber Security Enthusiast | CSE Student</h3>
+
 </div>
-
-#  Mymona Amin Shupti 
-
-### Cyber Security Enthusiast | CSE Student
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=4DABF7"/>
