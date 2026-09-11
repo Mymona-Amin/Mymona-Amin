@@ -1,14 +1,12 @@
 <div align="center">
 
   <img
-    src="https://i.postimg.cc/ZKKwczG4/Whats-App-Image-2026-09-09-at-11-20-33-AM.jpg"
+    src="https://i.postimg.cc/t7GbPCg3/Whats-App-Image-2026-09-09-at-11-20-33-AM-modified.png"
     alt="Mymona Amin Shupti"
     width="220"
-    height="220"
-    style="border-radius: 50%; border: 5px solid #0B1F3A; object-fit: cover;"
   />
 
-  <h1>Mymona Amin Shupti</h1>
+ <h1>Mymona Amin Shupti</h1>
 
   <h3>Cyber Security Enthusiast | CSE Student</h3>
 
