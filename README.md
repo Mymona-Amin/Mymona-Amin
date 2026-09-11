@@ -1,4 +1,6 @@
-
+<table width="100%" bgcolor="#0B1F3A">
+<tr>
+<td>
 
 <div align="center">
   <img
@@ -14,19 +16,11 @@
 
 ### Cyber Security Enthusiast | CSE Student
 
-</div>
-
-
-
-
-
 <p>
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=4DABF7"/>
   <img src="https://img.shields.io/badge/Learning-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/Building-Web%20Projects-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </p>
-
-</div>
 
 ---
 
@@ -156,5 +150,4 @@ Cyber Security
 Real-World Projects
       ↓
 Continuous Learning 🚀
-
   
