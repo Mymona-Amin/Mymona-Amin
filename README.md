@@ -117,8 +117,8 @@ A personal finance application concept designed to help users manage their finan
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mymona-Amin&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mymona-Amin&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mymona-Amin&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mymona-Amin&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
 ---
