@@ -85,16 +85,6 @@ Hello! I'm **Mymona Amin Shupti**, a Computer Science & Engineering student pass
 
 ---
 
-## 🚀 Projects
-
-### 🏦 Bank Management System
-
-A C-based project designed to practice programming concepts and simulate basic banking operations.
-
-**Tech:** `C`
-
----
-
 
 ## 📊 GitHub Statistics
 
