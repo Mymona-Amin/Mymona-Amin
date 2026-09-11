@@ -46,7 +46,6 @@ Hello! I'm **Mymona Amin Shupti**, a Computer Science & Engineering student pass
 
 | Area | Status |
 |---|---|
-| 🔐 Cyber Security | Learning |
 | ☕ Java | Learning |
 | 🌐 Web Development | Learning |
 | 🧩 Problem Solving | Improving |
