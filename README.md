@@ -12,7 +12,7 @@
   />
 </div>
 
-# Hi, I'm Mymona Amin Shupti 👋
+#  Mymona Amin Shupti 
 
 ### Cyber Security Enthusiast | CSE Student
 
