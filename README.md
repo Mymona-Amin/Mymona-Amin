@@ -89,15 +89,12 @@ Hello! I'm **Mymona Amin Shupti**, a Computer Science & Engineering student pass
 
 ### 🏦 Bank Management System
 
-A Java-based project designed to practice programming concepts and simulate basic banking operations.
+A C-based project designed to practice programming concepts and simulate basic banking operations.
 
 **Tech:** `C`
 
 ---
 
-
-
----
 
 ## 📊 GitHub Statistics
 
