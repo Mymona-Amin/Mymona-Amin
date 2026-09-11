@@ -91,24 +91,11 @@ Hello! I'm **Mymona Amin Shupti**, a Computer Science & Engineering student pass
 
 A Java-based project designed to practice programming concepts and simulate basic banking operations.
 
-**Tech:** `Java`
+**Tech:** `C`
 
 ---
 
-### 💰 My Money — Personal Finance App
 
-A personal finance application concept designed to help users manage their financial information in one place.
-
-**Planned Features:**
-
-- 💳 Track bank accounts
-- 📱 Track mobile wallet balances
-- 💰 View total balance
-- 📤 Track money to pay
-- 📥 Track money to receive
-- 🧾 Track daily expenses
-
-**Status:** 🚧 Planning & Learning
 
 ---
 
