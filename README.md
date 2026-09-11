@@ -15,7 +15,7 @@
 
 
 
-### Cyber Security Enthusiast | CSE Student
+
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=4DABF7"/>
